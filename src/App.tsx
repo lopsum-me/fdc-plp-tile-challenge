@@ -34,7 +34,7 @@ export default function App() {
                 className="text-blue-500 font-bold"
                 rel="noreferrer"
               >
-                this Figma link design
+                this Figma design
               </a>
               .
             </p>
