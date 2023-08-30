@@ -16,8 +16,9 @@ export default function App() {
             any time.
           </p>
           <p className="text-sm">
-            You'll have <strong>30 minutes</strong> to complete this challenge.
-            Focus on attention to detail, accesibility, SEO and performance.
+            You'll have <strong>45 minutes</strong> to complete this challenge.
+            Focus on attention to detail, accesibility, SEO and performance.{' '}
+            <strong>You don't need to finish the whole exercise. If you run out of time is totally OK.</strong>
           </p>
           <div className="bg-gray-200 text-gray-600 leading-relaxed p-2 rounded flex flex-col gap-1">
             <span className="text-xs uppercase font-bold tracking-wide">
