@@ -6,7 +6,7 @@ export default function App() {
     <div className="bg-gray-900 w-full h-full flex flex-col items-center justify-center absolute top-0 left-0">
       <div className="w-4/5 min-h-[600px] flex p-6 rounded-xl bg-white gap-8">
         <div className="w-[300px] flex flex-col gap-4">
-          <h1 className="text-xl">Hi Kirk!</h1>
+          <h1 className="text-xl">Hi _candidateName_!</h1>
           <p className="text-sm">
             For this code challenge you're gonna build a React component using
             Tailwind and TS.
